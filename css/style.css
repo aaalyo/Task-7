@@ -41,8 +41,8 @@ body {
     width: 100%;
     border-radius: 5px;
     height: 30px;
-    padding: 0px;
     border: none;
+    color: rgb(15, 14, 14);
 }
 
 .survey select {
@@ -54,12 +54,12 @@ body {
 
 .survey textarea {
     width: 100%;
-    padding: 0px;
     line-height: 30px;
+    color: rgb(15, 14, 14);
 }
 
 .survey select option {
-    color: navy;
+    color: rgb(15, 14, 14);
 }
 
 .small-container {
@@ -82,5 +82,5 @@ span {
     height: 30px;
     border: none;
     border-radius: unset;
-    padding: 0px;
+    color: white;
 }
